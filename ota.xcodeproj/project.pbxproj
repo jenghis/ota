@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		840902F31CDE8D7400C00569 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 840902F21CDE8D7400C00569 /* README.md */; };
 		84A513471B826C3800959E94 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A513461B826C3800959E94 /* main.swift */; };
 		84D7FFEF1BF8373B00D2594E /* xz_dec_lzma2.c in Sources */ = {isa = PBXBuildFile; fileRef = 84D7FFE71BF8373B00D2594E /* xz_dec_lzma2.c */; };
 		84D7FFF01BF8373B00D2594E /* xz_dec_stream.c in Sources */ = {isa = PBXBuildFile; fileRef = 84D7FFE91BF8373B00D2594E /* xz_dec_stream.c */; };
@@ -155,7 +154,6 @@
 			files = (
 				84D7FFF01BF8373B00D2594E /* xz_dec_stream.c in Sources */,
 				84D7FFF11BF8373B00D2594E /* xz_crc32.c in Sources */,
-				840902F31CDE8D7400C00569 /* README.md in Sources */,
 				84A513471B826C3800959E94 /* main.swift in Sources */,
 				84D7FFEF1BF8373B00D2594E /* xz_dec_lzma2.c in Sources */,
 			);
